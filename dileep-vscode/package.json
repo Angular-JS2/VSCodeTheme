@@ -1,0 +1,22 @@
+{
+    "name": "dileep-vscode",
+    "displayName": "DILEEP-VSCODE",
+    "description": "Copy of Inteji idea ",
+    "version": "0.0.1",
+    "publisher": "dileep",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DILEEP-VSCODE",
+                "uiTheme": "vs",
+                "path": "./themes/DILEEP-VSCODE-color-theme.json"
+            }
+        ]
+    }
+}
